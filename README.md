@@ -79,4 +79,4 @@ python predict.py model.keras path\to\some_sign.jpg
 
 ## Credit 
 
-Part of this project is a part of CS50's Introduction to Artificial Intelligence with Python.
+This project is a part of CS50's Introduction to Artificial Intelligence with Python.
