@@ -77,6 +77,7 @@ Then download any traffic sign image you want and run this for the already train
 python predict.py model.keras path\to\some_sign.jpg 
 ```
 
-## Credit 
+## course 
+This project was a part of CS50's Introduction to Artificial Intelligence with Python
 
-This project is a part of CS50's Introduction to Artificial Intelligence with Python.
+Project: Traffic
