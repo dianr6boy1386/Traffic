@@ -1,8 +1,8 @@
 # Traffic
 
-## by Dyan Ahmadi
+### by Dyan Ahmadi
 
-### overview
+## overview
 
 An AI that identifies which traffic sign appears in a photograph, built using TensorFlow to train a convolutional neural network on the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
 
